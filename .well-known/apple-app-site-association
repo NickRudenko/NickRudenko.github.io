@@ -1,0 +1,10 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appID": "72XAM7Z246.con.swift.moveny.Meetup-Demo", // Replace these!
+        "paths": [ "/meetup/callback", "/other/path/*" ] // Add the path(s) you'll use in your redirect_uri
+      }
+    ]
+  }
+}
